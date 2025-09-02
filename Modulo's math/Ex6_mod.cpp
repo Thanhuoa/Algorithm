@@ -12,7 +12,7 @@ Dòng duy nhất của trường hợp thử nghiệm chứa hai số nguyên a 
 Đối với mỗi trường hợp kiểm tra, hãy in câu trả lời - số lần di chuyển tối thiểu bạn cần
 thực hiện để chia hết cho b.
 
-Construction: a = x*b + r but in this question we have a = x*b + r + y so we must find y
+Instruction: a = x*b + r but in this question we have a = x*b + r + y so we must find y
 
 Ví dụ
 Input                  Output
@@ -52,4 +52,5 @@ int main() {
     }
 
     return 0;
+
 }
