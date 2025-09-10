@@ -1,4 +1,4 @@
-/* Ex5. The char rectangle 5
+/* Ex5. The char rectangle 1
 Input                   Output
 4 4                     DDDD
                         CDDD
@@ -38,4 +38,5 @@ int main() {
     }
 
     return 0;
+
 }
